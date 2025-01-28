@@ -22,7 +22,6 @@ function App() {
       "What I want to learn?": "To stay energized and motivated in all circumstances.",
       "How will I learn?": "By being consistent and open to feedback.",
     };
-
     setDisplayText(expectations[value] || "Invalid Option");
   };
 
